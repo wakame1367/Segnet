@@ -1,0 +1,5 @@
+*.caffemodel
+logs/
+CamVid/
+.idea/
+__pycache__/
